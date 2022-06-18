@@ -4,13 +4,13 @@
       "id": 1,
       "text": "Almorzar",
       "day": "17 de Junio - 12:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Arreglar el auto",
       "day": "17 de Junio - 20:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
@@ -25,22 +25,16 @@
       "reminder": false
     },
     {
-      "text": "aaa",
-      "day": "asdasd",
+      "text": "Nueva Tarea",
+      "day": "18 de Junio - 15:00",
       "reminder": false,
-      "id": 5
+      "id": 8
     },
     {
-      "text": "aaa",
-      "day": "asdasd",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "aaa",
-      "day": "asdasd",
+      "text": "Go dinner with mom",
+      "day": "28 de Julio - 13:00",
       "reminder": true,
-      "id": 7
+      "id": 10
     }
   ]
 }
